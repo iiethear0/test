@@ -11,4 +11,4 @@ spec:
   owner: Faisal
   definition:
       # $text: https://github.com/iiethear0/test/blob/main/springboot-mvc-openapi/petstore.yml
-      $text: http://localhost:4000/api-docs/#/
+      $text: http://localhost:4000/api-docs/
