@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Pet test
+  name: Pet-test
   description: Spring MVC openapi service
   tags:
     - ANB
