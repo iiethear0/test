@@ -10,4 +10,4 @@ spec:
   lifecycle: experimental
   owner: Faisal
   definition:
-    $text: https://github.com/iiethear0/test/edit/main/springboot-mvc-openapi/petstore.yml
+    $text: https://github.com/iiethear0/test/blob/main/springboot-mvc-openapi/petstore.yml
